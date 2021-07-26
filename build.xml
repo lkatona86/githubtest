@@ -1,8 +1,4 @@
-<project name="xunit-example" xmlns:jacoco="antlib:org.jacoco.ant">
-	<path id="classpath">
-		<fileset dir="lib">
-			<include name="*.jar" />
-		</fileset>
+
 	</path>
 
 	<taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml" classpathref="classpath" />
