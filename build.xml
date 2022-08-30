@@ -7,8 +7,7 @@
 	</target>
 
 		<mkdir dir="build/classes" />
-		<javac srcdir="src" destdir="build/classes" classpathref="classpath" includeantruntime="false" />
-	</target>
+dsfasdf	</target>
 <project name="xunit-example" xmlns:jacoco="antlib:org.jacoco.ant">
 	<path id="classpath">
 dfad			<include name="*.jar" />
