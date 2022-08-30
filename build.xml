@@ -13,7 +13,6 @@
 	<path id="classpath">
 dfad			<include name="*.jar" />
 		</fileset>
-	</path>
 
 	<taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml" classpathref="classpath" />
 
