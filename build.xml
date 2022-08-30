@@ -3,7 +3,6 @@
 
 	<taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml" classpathref="classpath" />
 
-	<target name="clean">
 		<delete dir="build" />
 	</target>
 
