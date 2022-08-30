@@ -11,8 +11,7 @@
 	</target>
 <project name="xunit-example" xmlns:jacoco="antlib:org.jacoco.ant">
 	<path id="classpath">
-		<fileset dir="lib">
-			<include name="*.jar" />
+dfad			<include name="*.jar" />
 		</fileset>
 	</path>
 
